@@ -14,7 +14,7 @@ package Practice;
  *          - 2. Do-While
  *          - 3. For
  */
-
+// ▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️
 
 
  /**
@@ -87,7 +87,7 @@ package Practice;
             -> if we don't want to get trapped then donot remove the condition part only 
   */
 
-
+// ▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️
 
 /**
  *  Print 1-10 using for loop
@@ -105,7 +105,7 @@ package Practice;
     
 // }
 
-
+// ▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️
 
 
 /**
@@ -190,7 +190,7 @@ package Practice;
 // }
 
 
-
+// ▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️
 
 
 /**
@@ -216,7 +216,7 @@ package Practice;
 // }
 
 
-
+// ▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️
 
 
 /**
@@ -228,7 +228,7 @@ package Practice;
  *  Continue --> Stop all the iteration, move to the next iteration
  */
 
-
+// ▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️
 
  /**
   *     If loop satisfies the condition it will break the loop and print the elements it has stored
@@ -248,7 +248,7 @@ package Practice;
 //     }
 // }
 
-
+// ▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️
 
 
 
@@ -274,7 +274,7 @@ package Practice;
 // }
 
 
-
+// ▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️
 
 
 /**
@@ -292,7 +292,7 @@ package Practice;
 //         }
 //     }
 // }
-
+// ▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️
 
 /**
  *  in the while loop We have to write num++ explictly twice to move to the next iteration 
@@ -314,7 +314,7 @@ package Practice;
 //         }
 //     }
 // }
- 
+ // ▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️
 
 
 /**
@@ -339,7 +339,7 @@ package Practice;
 //         }
 //     }
 //  }
-
+// ▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️
  
 
 /**
@@ -401,3 +401,5 @@ package Practice;
 
 //     }
 // }
+
+// ▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️
