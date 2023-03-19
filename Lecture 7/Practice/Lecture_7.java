@@ -126,6 +126,41 @@ package Practice;
     
 // }
 
+// ▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️
+
+/**
+ *  Print reverse order 10-1 using for loop
+ */
+
+//  public class Lecture_7 {
+//     public static void main(String[] args) {
+
+//         // int sum =0;
+//         for(int num=10; num>=1; num--)
+//         {
+//                 System.out.println(num);
+//         }
+//     }
+// }
+
+// ▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️
+
+/**
+ *  Print reverse order 10-1 using while loop
+ */
+
+//  public class Lecture_7 {
+//         public static void main(String[] args) {
+    
+//             int num = 10;
+//             while(num>=1)
+//             {
+                
+//                 System.out.println(num);
+//                 num--;
+//             }
+//         }
+//     }
 
 
 
