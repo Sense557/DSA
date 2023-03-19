@@ -1,4 +1,6 @@
+
 package Practice;
+import java.util.*;
 /**
  *  Count the number of digits for a given number n
  *         Note:- n = 12356
@@ -10,17 +12,19 @@ package Practice;
 
 public class CountDigits {
     public static void main(String[] args) {
-
-        int n = 123564789;
-        int countNum=0;
-
-        while (n>0)
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Enter a number");
+        int num = sc.nextInt();
+        int count =0;
+        
+        while(num>0)
         {
-            n/=10;
-            countNum++;
-
+            num/=10;
+            count++;
         }
-        System.out.println("There are numbers in n is: "+countNum);
+        System.out.println("The number of digits in num is " +count);
 
+        sc.close();
     }
 }
+
