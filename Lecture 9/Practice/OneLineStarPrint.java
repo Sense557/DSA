@@ -2,7 +2,7 @@ import java.util.*;
 /**
  *  One Line Star Pattern Print
  * 
-       ***********
+       * * * * * * 
  */
 
 
@@ -15,7 +15,7 @@ public class OneLineStarPrint {
 
         for (int i=0; i<=n; i++)
         {
-            System.out.print("*");
+            System.out.print("* ");
         }
         System.out.println();
         sc.close();
