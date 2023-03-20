@@ -5,7 +5,11 @@ package Folder;
 
 /**
  *  Converting Binary Number to Decimal Number
+ *      
+ *      Note-
+ *          1101--> 13
  */
+
 // public class index {
 //     public static void main(String[] args) {
 //         Scanner sc = new Scanner(System.in);
@@ -32,7 +36,11 @@ package Folder;
 // import java.util.Scanner;
 /**
  *  Converting Decimal to Binary Number
+ * 
+ *      Note-
+ *          13 --> 1101
  */
+
 // public class index {
 //     public static void main(String[] args) {
 //         Scanner sc = new Scanner(System.in);
