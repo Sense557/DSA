@@ -1,6 +1,8 @@
 package Folder;
 
 // import java.util.Scanner;
+// ▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️▶️
+
 /**
  *  Converting Binary Number to Decimal Number
  */
